@@ -1,0 +1,6 @@
+@BibliotecaPro.Lector.Api_HostAddress = http://localhost:5015
+
+GET {{BibliotecaPro.Lector.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
